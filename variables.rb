@@ -17,3 +17,11 @@ cups_of_coffee_today = 1.5
 alive = true
 student = true
 sleepy = false
+
+#change strings
+first_name = "Joseph"
+last_name = "K"
+doggies = "Pup1 & Pup2"
+
+puts "My name is #{first_name} #{last_name}."
+puts "I have 2 dogs, called #{doggies}"
